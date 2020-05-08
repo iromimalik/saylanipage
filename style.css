@@ -1,0 +1,17 @@
+p {
+    font-weight: 300px;
+    color: darkgray;
+}
+
+.box {
+    background-color: blue;
+    height: 200px;
+}
+h1{
+    font-style: bold;
+    color: blue;
+    text-align: center;
+}
+div{
+    box-sizing: border-box;
+}
